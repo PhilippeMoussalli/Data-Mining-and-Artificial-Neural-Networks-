@@ -1,5 +1,5 @@
 # Data Mining and Artificial Neural Networks
-Exercises sessions and report for the course “Data Mining and Artificial Neural Networks” taught at KU Leuven. The course focused on gaining insight and hands-on expertise. The tackled subjects are split into the following sections: 
+Exercises sessions and [report](ANN_report.pdf) for the course “Data Mining and Artificial Neural Networks” taught at KU Leuven. The course focused on gaining insight and hands-on expertise. The tackled subjects are split into the following sections: 
 
 ## 1) Training Algorithms and Generalization  
   This section introduces the use of neural networks as general models for function estimation. From their simplest form, the perceptron, to more complex structures. The goal was to gain a sufficient understanding of the mathematics of the model, its power and its limitations, its estimation, and its training as well as the precise influence of the model parameters. This section includes:  
